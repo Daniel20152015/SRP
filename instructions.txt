@@ -1,0 +1,1 @@
+You just need to run it with the command py SRP.py
